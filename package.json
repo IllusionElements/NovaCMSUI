@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "@material-ui/core": "^1.0.0-rc.1",
+    "@material-ui/icons": "^1.0.0",
+    "moment": "^2.22.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-storybook": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-babel": "^5.1.0",
+    "eslint-plugin-flowtype": "^2.46.3"
+  }
+}

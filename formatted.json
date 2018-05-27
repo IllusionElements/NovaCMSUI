@@ -1,0 +1,1302 @@
+[
+  {
+    "_id": 1,
+    "rankName": "Private",
+    "members": [
+      {
+        "gamertag": "Kian1 7",
+        "rankId": 1,
+        "recruits": [],
+        "recruiter": "Chadrick_Cummerata67",
+        "dateAdded": "2017-08-24T22:09:03.873Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Jewelery West Virginia"
+      },
+      {
+        "gamertag": "NGC Athena92",
+        "rankId": 1,
+        "recruits": [],
+        "recruiter": "Richie66",
+        "dateAdded": "2017-05-13T12:14:19.253Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "connect Missouri client-server"
+      },
+      {
+        "gamertag": "NGC Harmony17 7",
+        "rankId": 1,
+        "recruits": [],
+        "recruiter": "Herminio84",
+        "dateAdded": "2018-02-07T10:43:16.669Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "content"
+      },
+      {
+        "gamertag": "Edna66",
+        "rankId": 1,
+        "recruits": [],
+        "recruiter": "Monroe68",
+        "dateAdded": "2017-10-19T01:18:20.247Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "TCP Chair District"
+      },
+      {
+        "gamertag": "NGC Katelynn.Purdy",
+        "rankId": 1,
+        "recruits": [],
+        "recruiter": "Aurore.Brekke35",
+        "dateAdded": "2017-12-22T09:54:26.112Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "blue SMTP"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "rankName": "Corporal",
+    "members": [
+      {
+        "gamertag": "NGC Reva_Maggio43 7",
+        "rankId": 2,
+        "recruits": [],
+        "recruiter": "Ruby73",
+        "dateAdded": "2018-04-05T13:32:45.724Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "networks"
+      },
+      {
+        "gamertag": "Yoshiko_Collier 7",
+        "rankId": 2,
+        "recruits": [],
+        "recruiter": "Alayna8",
+        "dateAdded": "2017-07-30T11:32:47.232Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Bacon Savings Account indexing"
+      },
+      {
+        "gamertag": "Edmond.Russel36",
+        "rankId": 2,
+        "recruits": [],
+        "recruiter": "Dejah53",
+        "dateAdded": "2018-02-10T08:32:27.095Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Chair primary"
+      },
+      {
+        "gamertag": "Annabell_Runolfsdottir",
+        "rankId": 2,
+        "recruits": [],
+        "recruiter": "Haylee.Keebler",
+        "dateAdded": "2018-04-06T00:14:49.332Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "THX"
+      },
+      {
+        "gamertag": "Alva.Bradtke 7",
+        "rankId": 2,
+        "recruits": [],
+        "recruiter": "Maiya_Farrell38",
+        "dateAdded": "2017-05-04T02:26:25.871Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "knowledge base back-end architecture"
+      },
+      {
+        "gamertag": "Makenna.Dietrich92",
+        "rankId": 2,
+        "recruits": [],
+        "recruiter": "Buford3",
+        "dateAdded": "2018-03-22T00:54:39.413Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Integration"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "rankName": "Sergeant",
+    "members": [
+      {
+        "gamertag": "NGC Mabelle93",
+        "rankId": 3,
+        "recruits": [],
+        "recruiter": "Augusta.Rogahn33",
+        "dateAdded": "2017-10-01T19:42:10.969Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Chicken Bedfordshire connecting"
+      },
+      {
+        "gamertag": "NGC Hans.Haley 7",
+        "rankId": 3,
+        "recruits": [],
+        "recruiter": "Asia.Mann",
+        "dateAdded": "2017-08-10T01:35:08.515Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "markets matrix"
+      },
+      {
+        "gamertag": "NGC Thea8 7",
+        "rankId": 3,
+        "recruits": [],
+        "recruiter": "Maurice_Hoppe",
+        "dateAdded": "2018-01-22T21:19:20.617Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Summit secured line"
+      },
+      {
+        "gamertag": "NGC Emelie22",
+        "rankId": 3,
+        "recruits": [],
+        "recruiter": "Cesar3",
+        "dateAdded": "2017-06-11T19:47:16.156Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "GB"
+      },
+      {
+        "gamertag": "Trace66",
+        "rankId": 3,
+        "recruits": [],
+        "recruiter": "Bill_Ebert",
+        "dateAdded": "2018-02-25T16:08:44.588Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Customer content-based Soft"
+      },
+      {
+        "gamertag": "NGC Matteo_OReilly 7",
+        "rankId": 3,
+        "recruits": [],
+        "recruiter": "Darian60",
+        "dateAdded": "2017-12-28T23:16:49.570Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Tajikistan Tasty Saint Vincent and the Grenadines"
+      },
+      {
+        "gamertag": "NGC Burley69 7",
+        "rankId": 3,
+        "recruits": [],
+        "recruiter": "Golden.Hettinger82",
+        "dateAdded": "2018-02-15T08:41:38.018Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Accounts cross-platform"
+      },
+      {
+        "gamertag": "NGC Vernon.Towne",
+        "rankId": 3,
+        "recruits": [],
+        "recruiter": "Sydnie.Klocko22",
+        "dateAdded": "2017-08-08T08:19:32.670Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "unleash"
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "rankName": "Staff Sergeant",
+    "members": [
+      {
+        "gamertag": "NGC Timmy94 7",
+        "rankId": 4,
+        "recruits": [],
+        "recruiter": "Lois_Grady81",
+        "dateAdded": "2018-02-04T12:30:33.796Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "TCP context-sensitive"
+      },
+      {
+        "gamertag": "NGC Derek.Dickens 7",
+        "rankId": 4,
+        "recruits": [],
+        "recruiter": "Mack_Anderson",
+        "dateAdded": "2018-02-02T04:13:10.075Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "PCI Checking Account Engineer"
+      },
+      {
+        "gamertag": "Jane.Altenwerth",
+        "rankId": 4,
+        "recruits": [],
+        "recruiter": "Brock_Schoen32",
+        "dateAdded": "2017-08-11T22:35:56.907Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Clothing Greens 1080p"
+      },
+      {
+        "gamertag": "NGC Roslyn96 7",
+        "rankId": 4,
+        "recruits": [],
+        "recruiter": "Kiley_OConnell",
+        "dateAdded": "2018-01-17T23:35:04.221Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "impactful"
+      },
+      {
+        "gamertag": "NGC Irma98 7",
+        "rankId": 4,
+        "recruits": [],
+        "recruiter": "Sydni.Funk47",
+        "dateAdded": "2017-10-13T09:30:26.262Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "support interface"
+      },
+      {
+        "gamertag": "Berneice_Russel 7",
+        "rankId": 4,
+        "recruits": [],
+        "recruiter": "Ara99",
+        "dateAdded": "2017-12-13T14:15:19.890Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Rustic Wooden Soap Tugrik Ball"
+      },
+      {
+        "gamertag": "NGC Emerald5",
+        "rankId": 4,
+        "recruits": [],
+        "recruiter": "Mable80",
+        "dateAdded": "2018-01-21T19:23:53.355Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "copying"
+      },
+      {
+        "gamertag": "NGC Lupe_Roberts",
+        "rankId": 4,
+        "recruits": [],
+        "recruiter": "Delphine.Koss70",
+        "dateAdded": "2017-10-13T21:57:02.974Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "solutions Kids"
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "rankName": "Master Sergeant",
+    "members": [
+      {
+        "gamertag": "NGC Lia.Kuhic38 7",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Devonte28",
+        "dateAdded": "2017-05-22T17:13:12.425Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "platforms Hong Kong"
+      },
+      {
+        "gamertag": "Rossie46",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Dan.Crona55",
+        "dateAdded": "2017-05-17T20:43:34.745Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "digital back up"
+      },
+      {
+        "gamertag": "NGC Sandy_Rohan97",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Brando99",
+        "dateAdded": "2017-10-03T03:12:21.069Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "heuristic program card"
+      },
+      {
+        "gamertag": "Earlene46",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Ada.Rau54",
+        "dateAdded": "2017-11-17T20:16:23.263Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Configurable Investment Account"
+      },
+      {
+        "gamertag": "NGC Sterling3",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Monty_Green",
+        "dateAdded": "2018-04-07T00:07:50.263Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "reboot Throughway"
+      },
+      {
+        "gamertag": "NGC Jose.Stark 7",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Lauryn_Gleason",
+        "dateAdded": "2017-08-27T09:43:17.096Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Unbranded Concrete Gloves"
+      },
+      {
+        "gamertag": "NGC Kiana89",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Kim.Auer",
+        "dateAdded": "2017-09-17T11:26:47.384Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Jewelery"
+      },
+      {
+        "gamertag": "Cristian_Witting60 7",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Judge.Ondricka10",
+        "dateAdded": "2017-11-25T10:37:43.147Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "e-commerce Director"
+      },
+      {
+        "gamertag": "NGC Ora_Johnston 7",
+        "rankId": 5,
+        "recruits": [],
+        "recruiter": "Mavis.Heathcote",
+        "dateAdded": "2018-01-29T15:01:55.244Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "1080p"
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "rankName": "Lieutenant",
+    "members": [
+      {
+        "gamertag": "NGC Helga_Glover59",
+        "rankId": 6,
+        "recruits": [],
+        "recruiter": "Kenny67",
+        "dateAdded": "2018-02-19T11:48:56.178Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Frozen Handcrafted Fresh Computer"
+      },
+      {
+        "gamertag": "Tobin.Roberts21",
+        "rankId": 6,
+        "recruits": [],
+        "recruiter": "Curt.Frami",
+        "dateAdded": "2017-08-15T01:33:18.407Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "solid state"
+      },
+      {
+        "gamertag": "NGC Sunny.Pfeffer1",
+        "rankId": 6,
+        "recruits": [],
+        "recruiter": "Mackenzie.Gislason",
+        "dateAdded": "2017-05-08T19:01:57.905Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "empowering deposit Web"
+      },
+      {
+        "gamertag": "NGC Fae_McCullough 7",
+        "rankId": 6,
+        "recruits": [],
+        "recruiter": "Wilbert.Gulgowski58",
+        "dateAdded": "2018-02-26T15:59:18.341Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Chair Checking Account Chilean Peso Unidades de fomento"
+      },
+      {
+        "gamertag": "NGC Deontae60",
+        "rankId": 6,
+        "recruits": [],
+        "recruiter": "Ethelyn27",
+        "dateAdded": "2017-09-30T17:38:20.467Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Strategist"
+      },
+      {
+        "gamertag": "Mario.Hahn 7",
+        "rankId": 6,
+        "recruits": [],
+        "recruiter": "Aracely.Walker57",
+        "dateAdded": "2017-12-15T22:17:18.136Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Singapore Dollar"
+      },
+      {
+        "gamertag": "Carlo_Stokes76",
+        "rankId": 6,
+        "recruits": [],
+        "recruiter": "Dean30",
+        "dateAdded": "2018-01-22T14:53:14.852Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Switchable application Dam"
+      },
+      {
+        "gamertag": "Rocky.Hilll97",
+        "rankId": 6,
+        "recruits": [],
+        "recruiter": "Dakota37",
+        "dateAdded": "2017-06-12T22:18:49.488Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "copying Markets Sausages"
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "rankName": "Captain",
+    "members": [
+      {
+        "gamertag": "Aaron20",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Belle_Lockman62",
+        "dateAdded": "2017-09-18T00:48:18.822Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Pants navigating"
+      },
+      {
+        "gamertag": "NGC Icie86",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Maryjane39",
+        "dateAdded": "2017-08-08T17:29:47.000Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "collaboration Fresh Profit-focused"
+      },
+      {
+        "gamertag": "Mckenna_Hintz",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Lula_Schaden",
+        "dateAdded": "2018-01-27T10:45:46.342Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Dynamic"
+      },
+      {
+        "gamertag": "NGC Gabriel84",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Arne24",
+        "dateAdded": "2017-06-26T23:22:31.295Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "payment dedicated deposit"
+      },
+      {
+        "gamertag": "Karlee.Stiedemann",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Shanie_Abshire95",
+        "dateAdded": "2017-09-09T07:38:58.053Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "structure web-enabled"
+      },
+      {
+        "gamertag": "Colt_Franecki92",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Jovanny.Legros",
+        "dateAdded": "2017-04-23T07:26:47.325Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "1080p"
+      },
+      {
+        "gamertag": "NGC Kailey39 7",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Jessie.Schamberger55",
+        "dateAdded": "2017-09-17T10:37:38.155Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "viral parsing"
+      },
+      {
+        "gamertag": "NGC Ashly.Kovacek",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Elvie.Gutkowski96",
+        "dateAdded": "2017-05-26T05:17:33.709Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Avon bus Bedfordshire"
+      },
+      {
+        "gamertag": "Percy16 7",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Dortha56",
+        "dateAdded": "2018-02-11T17:24:04.363Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Estates Virgin Islands, British"
+      },
+      {
+        "gamertag": "NGC Osbaldo_Konopelski77",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Ivy.Swift",
+        "dateAdded": "2017-10-15T07:41:10.183Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "synthesizing"
+      },
+      {
+        "gamertag": "NGC Olen.Grimes",
+        "rankId": 7,
+        "recruits": [],
+        "recruiter": "Anderson72",
+        "dateAdded": "2017-04-18T08:14:41.225Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Metal Shirt"
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "rankName": "Colonel",
+    "members": [
+      {
+        "gamertag": "Thora_MacGyver 7",
+        "rankId": 8,
+        "recruits": [],
+        "recruiter": "Braxton_OConner",
+        "dateAdded": "2018-01-14T17:17:26.130Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Afghanistan"
+      },
+      {
+        "gamertag": "NGC Mathilde.Baumbach26 7",
+        "rankId": 8,
+        "recruits": [],
+        "recruiter": "Brain.Shields",
+        "dateAdded": "2017-09-23T17:24:44.832Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Baby"
+      },
+      {
+        "gamertag": "Keshawn99 7",
+        "rankId": 8,
+        "recruits": [],
+        "recruiter": "Korey_Okuneva",
+        "dateAdded": "2017-11-26T13:44:56.341Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Sports Uzbekistan Sum time-frame"
+      },
+      {
+        "gamertag": "NGC Sabryna_Leannon 7",
+        "rankId": 8,
+        "recruits": [],
+        "recruiter": "Hellen_Wolff12",
+        "dateAdded": "2017-10-29T12:26:53.514Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Tuna Cotton productivity"
+      },
+      {
+        "gamertag": "NGC Brooke.Carter19 7",
+        "rankId": 8,
+        "recruits": [],
+        "recruiter": "Dulce60",
+        "dateAdded": "2017-05-22T18:01:52.221Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "New Hampshire"
+      },
+      {
+        "gamertag": "NGC Hermina_Pouros36 7",
+        "rankId": 8,
+        "recruits": [],
+        "recruiter": "Monique.Gottlieb72",
+        "dateAdded": "2018-03-28T16:00:53.316Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "paradigms Keys"
+      },
+      {
+        "gamertag": "Cora74",
+        "rankId": 8,
+        "recruits": [],
+        "recruiter": "Clovis_Stracke75",
+        "dateAdded": "2017-09-06T20:29:16.619Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Metal"
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "rankName": "General",
+    "members": [
+      {
+        "gamertag": "NGC Wilfredo_Grant 7",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Everett.Nienow",
+        "dateAdded": "2017-10-08T22:09:50.969Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Handmade Fresh Ball Granite Sausages"
+      },
+      {
+        "gamertag": "Jacquelyn.Parker 7",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Myriam_Botsford8",
+        "dateAdded": "2018-02-28T19:59:19.228Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "invoice Quality"
+      },
+      {
+        "gamertag": "Lilla_Jacobs63",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Jermey85",
+        "dateAdded": "2017-08-19T21:59:28.125Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Connecticut interface leverage"
+      },
+      {
+        "gamertag": "NGC Pedro_McGlynn 7",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Kadin39",
+        "dateAdded": "2018-03-11T08:17:38.427Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Kentucky collaborative"
+      },
+      {
+        "gamertag": "Alexzander_Harris82",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Dorian79",
+        "dateAdded": "2018-03-01T22:34:13.053Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "withdrawal Glen Shoes"
+      },
+      {
+        "gamertag": "NGC Margarita77 7",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Maybell_Walsh",
+        "dateAdded": "2017-11-10T05:29:24.926Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "tangible"
+      },
+      {
+        "gamertag": "NGC Bertha_Bayer 7",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Eloisa.Cummerata90",
+        "dateAdded": "2018-04-06T03:42:29.839Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "3rd generation structure"
+      },
+      {
+        "gamertag": "Kenneth64",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Daphnee.Osinski71",
+        "dateAdded": "2017-06-06T11:40:29.618Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Generic Investor"
+      },
+      {
+        "gamertag": "Isaac_Gerlach48",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "May33",
+        "dateAdded": "2018-02-08T13:54:16.147Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "back-end Configuration"
+      },
+      {
+        "gamertag": "Leon.Gaylord 7",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Lucius_Kiehn",
+        "dateAdded": "2017-05-08T13:01:55.649Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "e-services Books"
+      },
+      {
+        "gamertag": "Wyatt_Walker31 7",
+        "rankId": 9,
+        "recruits": [],
+        "recruiter": "Dolores51",
+        "dateAdded": "2018-02-11T07:00:41.061Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "Unbranded"
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "rankName": "Co-Founder",
+    "members": [
+      {
+        "gamertag": "NGC Forest_Koelpin87",
+        "rankId": 10,
+        "recruits": [],
+        "recruiter": "Caitlyn60",
+        "dateAdded": "2018-01-06T09:54:59.795Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "Division withdrawal"
+      },
+      {
+        "gamertag": "Erling_Gerhold 7",
+        "rankId": 10,
+        "recruits": [],
+        "recruiter": "Flo28",
+        "dateAdded": "2018-01-11T06:19:25.612Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "demand-driven"
+      },
+      {
+        "gamertag": "Miles82",
+        "rankId": 10,
+        "recruits": [],
+        "recruiter": "Lottie_Will67",
+        "dateAdded": "2018-03-29T03:08:38.879Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "knowledge base"
+      },
+      {
+        "gamertag": "NGC Arnoldo75 7",
+        "rankId": 10,
+        "recruits": [],
+        "recruiter": "Jarrod_Ebert",
+        "dateAdded": "2018-03-30T16:04:53.895Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "schemas foreground Cambridgeshire"
+      },
+      {
+        "gamertag": "NGC Mireya27 7",
+        "rankId": 10,
+        "recruits": [],
+        "recruiter": "Olin_Barrows67",
+        "dateAdded": "2018-04-06T21:02:04.615Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "District turquoise"
+      },
+      {
+        "gamertag": "Isaiah.Dickens",
+        "rankId": 10,
+        "recruits": [],
+        "recruiter": "Beaulah.Sauer",
+        "dateAdded": "2017-09-19T15:52:25.638Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Open"
+        },
+        "description": "architectures"
+      },
+      {
+        "gamertag": "NGC Stephon.Adams70",
+        "rankId": 10,
+        "recruits": [],
+        "recruiter": "Turner34",
+        "dateAdded": "2017-12-15T05:28:11.862Z",
+        "roster": {
+          "division": "Divine Heroes",
+          "squad": "Achilles"
+        },
+        "background": {
+          "friendsListStatus": "Closed"
+        },
+        "description": "payment Response"
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "rankName": "Founder",
+    "members": []
+  },
+  {
+    "_id": 12,
+    "rankName": "Co-Division Leader",
+    "members": []
+  },
+  {
+    "_id": 13,
+    "rankName": "Division Leader",
+    "members": []
+  },
+  {
+    "_id": 14,
+    "rankName": "Director",
+    "members": []
+  },
+  {
+    "_id": 15,
+    "rankName": "Senior Director",
+    "members": []
+  },
+  {
+    "_id": 16,
+    "rankName": "Department Staff",
+    "members": []
+  },
+  {
+    "_id": 17,
+    "rankName": "Board of Directors",
+    "members": []
+  },
+  {
+    "_id": 18,
+    "rankName": "Creators",
+    "members": []
+  }
+]
